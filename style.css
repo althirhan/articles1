@@ -1,0 +1,39 @@
+body {
+    background-color: #F5F5DC;
+    background-repeat: round;
+    min-height: 100vh;
+    font-family: 'DM Sans 14pt';
+}
+
+.judul {
+    text-align: center;
+}
+
+.double {
+    border-style: double;
+    border-width: 4px 0 0 0;
+    width: 100%;
+}
+
+.dot {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+}
+
+.pic1 {
+    float: right;
+    margin-left: 15px;
+    max-width: 360px;
+}
+
+.pic2 {
+    float: left;
+    margin-right: 15px;
+    max-width: 360px;
+}
+p {
+    text-align: justify;
+}
